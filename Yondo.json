@@ -1,0 +1,12 @@
+//  EndPoint
+//  http://186.159.9.250:41300/PagosAriesNet/api/Consulta
+[
+    {
+        "IdComercio": 811026151,
+        "Password" : "AriPagos_21",
+        "IdFactura" : "",
+        "IdCliente" : "278975",
+        "ClaveConsulta" : "01",
+        "ForzarParamConsulta" : ""
+    }
+]

@@ -1,6 +1,7 @@
 // endPoint
 // http://200.122.203.76:41300/PagosAriesNet/api/Consulta
-
+//http://200.122.203.76:41300/PagosAriesNet/api/Consulta
+//http://200.122.203.76:41300/PagosAriesNet/api/NotificarPagos
 [
     {
         "IdComercio": 890981138,

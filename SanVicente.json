@@ -1,0 +1,14 @@
+// EndPoint
+// http://190.13.84.70:41300/PagosAriesNet/api/Consulta
+// http://190.13.84.70:41300/PagosAriesNet/api/NotificarPagos
+
+[
+    {
+        "IdComercio": 0,
+        "Password" : "AriPagos_21",
+        "IdFactura" : "",
+        "IdCliente" : "",
+        "ClaveConsulta" : "",
+        "ForzarParamConsulta" : ""
+    }
+]

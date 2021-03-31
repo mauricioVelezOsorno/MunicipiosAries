@@ -8,5 +8,8 @@ Se encuentran los WebServices del Proveedor Aries
 - Municipio de Remedios su archivo JSON correspondiente es Remedios.json
 - Municipio de Turbo su archivo JSON correspondiente es Turbo.json
 - Municipio de Yondo su archivo JSON correspondiente es Yondo.json
+- Municipio de San Vicente archivo JSON correspondiente es SanVicente.json
+
+
 
 
